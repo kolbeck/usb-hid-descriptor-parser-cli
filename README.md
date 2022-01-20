@@ -1,6 +1,6 @@
 # USB HID Descriptor Parser CLI
 
-A simple program using the USB HID Descriptor Parser to print HID Descriptor of you USB HID device.
+A simple program using the [USB HID Descriptor Parser](https://github.com/kolbeck-jabra/usb-hid-descriptor-parser-cli) to print the HID Descriptor of your USB HID device.
 
 ## Run Program
 
